@@ -39,4 +39,4 @@ Icon?
 Thumbs.db
 
 # git system files
-desktop.ini
+*.ini
