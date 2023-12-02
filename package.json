@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "start2": "nodemon 02-GrapQL-Comment-Challenge/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@apollo/server": "^4.9.5",
     "apollo-server": "^3.13.0",
     "apollo-server-core": "^3.13.0",
     "graphql": "^16.8.1",
